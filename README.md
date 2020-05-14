@@ -1,4 +1,4 @@
-[VIVE Tracker Wiki](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/VIVE-Tracker-Wiki)
+[VIVE Tracker Wiki](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki)
 
 [Tips and Troubleshooting](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Tips-and-Troubleshooting)
 
