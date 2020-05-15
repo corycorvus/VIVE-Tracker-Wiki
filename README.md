@@ -7,3 +7,5 @@
 [Usage Guide](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Usage-Guide)
 
 [Hardware Info](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Hardware-Info)
+
+[SteamVR tracking without HMD](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/SteamVR-tracking-without-HMD)
