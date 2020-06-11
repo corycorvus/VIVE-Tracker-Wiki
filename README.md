@@ -4,10 +4,10 @@
 
 [Tips and Troubleshooting](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Tips-and-Troubleshooting)
 
-[Usage Guide](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Usage-Guide)
-
-[Hardware Info](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Hardware-Info)
+[Mixed Reality and Virtual Production](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Mixed-Reality-and-Virtual-Production)
 
 [SteamVR tracking without HMD](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/SteamVR-tracking-without-HMD)
 
-[Mixed Reality and Virtual Production](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Mixed-Reality-and-Virtual-Production)
+[Usage Guide](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Usage-Guide)
+
+[Hardware Info](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Hardware-Info)
