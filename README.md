@@ -9,3 +9,5 @@
 [Hardware Info](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Hardware-Info)
 
 [SteamVR tracking without HMD](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/SteamVR-tracking-without-HMD)
+
+[Mixed Reality and Virtual Production](https://github.com/corycorvus/VIVE-Tracker-Wiki/wiki/Mixed-Reality-and-Virtual-Production)
